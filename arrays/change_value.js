@@ -1,7 +1,6 @@
 var todos = ['item1', 'item2', 'item3', 'item4']
 console.log(todos) //its will display array.
 ['item1', 'item2', 'item3', 'item4']
-
 todos[0] //its display
  "item1"
 todos[1] //its display
