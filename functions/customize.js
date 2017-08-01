@@ -1,5 +1,5 @@
 function sayHiTo(person) {
   console.log('hi', person)
 }
-sayHiTo('fahad') //person = tahir
-//output "hi tahir"
+sayHiTo('tahir') // person = tahir
+// output "hi tahir"
