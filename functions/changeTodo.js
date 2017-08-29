@@ -1,5 +1,5 @@
-function changeTodo(){
-	todos[0] = 'some new value';
+function changeTodo(position, newValue){
+	todos[position] = newValue;
 }
 changeTodo(0, 'changed')
 displayTodos()
